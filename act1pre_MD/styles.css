@@ -1,0 +1,28 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f8f9fa;
+    color: #343a40;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+h1,h2,h3 {
+    color: #007bff;
+}
+
+div.card-header {
+    background-color: white;
+    padding: 10px 0;
+}
+
+div.card-body {
+    background-color: lightgray;
+    padding: 10px 0;
+}
+
+img{
+    height: 125px;
+    width: 125px;
+}
